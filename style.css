@@ -23,7 +23,7 @@ body {
 
 .search .input {
     background-color: #fff;
-    border: 4px #ec7d10 solid;
+    border: 3.5px #ec7d10 solid;
     border-radius: 50px;
     font-size: 18px;
     padding: 15px;
@@ -34,7 +34,7 @@ body {
 
 .btn {
     background-color: #fff;
-    border: 2px black solid;
+    border: 3.5px #ec7d10 solid;
     border-radius: 100%;
     cursor: pointer;
     font-size: 24px;
